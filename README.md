@@ -54,6 +54,8 @@
    - Interactive cards and filters  
    - Clean Pixar-themed layout for storytelling
    - Tooltip-driven storytelling
+   - Bookmarks created for easy views
+   - Filter option will enable to expand the analytics
 
 5. **Insights Framing**  
    - Added executive-ready interpretations  
